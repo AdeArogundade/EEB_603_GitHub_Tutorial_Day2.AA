@@ -6,4 +6,6 @@ square_number <- function(base){
   #### Show a change
   
   ### Show another change
+
+  ### Change from GitHub
 }
