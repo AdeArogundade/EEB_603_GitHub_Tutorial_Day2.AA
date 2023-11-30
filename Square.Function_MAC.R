@@ -3,7 +3,6 @@ square_number <- function(base){
   sq <- base*base 
   #Return sq object
   return(sq)
-  
   #### Show a change
   
   ### Show another change
